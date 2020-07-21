@@ -1,0 +1,9 @@
+C:\Users\maple\source\repos\The Button\The Button\bin\Debug\The Button.exe.config
+C:\Users\maple\source\repos\The Button\The Button\bin\Debug\The Button.exe
+C:\Users\maple\source\repos\The Button\The Button\bin\Debug\The Button.pdb
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The Button.csprojAssemblyReference.cache
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The_Button.Form1.resources
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The_Button.Properties.Resources.resources
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The Button.csproj.GenerateResource.cache
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The Button.exe
+C:\Users\maple\source\repos\The Button\The Button\obj\Debug\The Button.pdb
